@@ -74,4 +74,4 @@ Run the state machine in the console and watch CloudWatch Logs for progress.
 
 ---
 
-*Built with AWS Serverless & Analytics Services — minimal text, maximum clarity.*
+*Built with AWS Serverless & Analytics Services*
